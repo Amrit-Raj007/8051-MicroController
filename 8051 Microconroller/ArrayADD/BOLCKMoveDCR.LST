@@ -1,0 +1,41 @@
+A51 MACRO ASSEMBLER  BOLCKMOVEDCR                                                         03/15/2019 16:24:17 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+NO OBJECT MODULE REQUESTED
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE BOLCKMoveDCR.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ;ORG 0O00H
+0000 900305            2     MOV DPTR,#0305H
+0003 7930              3     MOV R1,#30H
+0005 7A05              4     MOV R2,#05
+0007 E4                5     LOOP :CLR A
+0008 93                6               MOVC A,@A+DPTR
+0009 F7                7           MOV @R1,A
+000A                   8               DEC DPTR
+*** _______________________________________^
+*** ERROR #A40 IN 8 (BOLCKMoveDCR.asm, LINE 8): INVALID REGISTER
+000A 19                9               DEC R1
+000B DAFA             10               DJNZ R2,LOOP
+0305                  11               ORG 0305H
+0305 05020703         12               DB 5,2,7,3,8
+0309 08                      
+                      13     END      
+                                       
+A51 MACRO ASSEMBLER  BOLCKMOVEDCR                                                         03/15/2019 16:24:17 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+LOOP . . . . . . .  C ADDR   0007H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 1 ERROR(S)

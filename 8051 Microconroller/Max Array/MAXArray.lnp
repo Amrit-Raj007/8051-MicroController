@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"MAX.obj" 
+TO "MAXArray" 
+RAMSIZE(256) 

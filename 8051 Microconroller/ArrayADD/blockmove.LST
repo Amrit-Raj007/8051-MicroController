@@ -1,0 +1,39 @@
+A51 MACRO ASSEMBLER  BLOCKMOVE                                                            03/15/2019 16:22:23 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN blockmove.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE blockmove.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ;ORG 0O00H
+0000 900300            2     MOV DPTR,#0300H
+0003 7930              3     MOV R1,#30H
+0005 7A05              4     MOV R2,#05
+0007 E4                5     LOOP :CLR A
+0008 93                6               MOVC A,@A+DPTR
+0009 F7                7           MOV @R1,A
+000A A3                8               INC DPTR
+000B 09                9               INC R1
+000C DAF9             10               DJNZ R2,LOOP
+0300                  11               ORG 0300H
+0300 05020703         12               DB 5,2,7,3,8
+0304 08                      
+                      13     END      
+                                       
+A51 MACRO ASSEMBLER  BLOCKMOVE                                                            03/15/2019 16:22:23 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+LOOP . . . . . . .  C ADDR   0007H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

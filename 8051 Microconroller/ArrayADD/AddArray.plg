@@ -1,0 +1,286 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\B16CS016\Desktop\ArrayADD\AddArray.uvproj
+Project File Date:  03/15/2019
+
+<h2>Output:</h2>
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+blockmove.asm - 2 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+assembling Add.asm...
+assembling AvgArray.asm...
+assembling Mul32.asm...
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+Target not created
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+blockmove.asm - 2 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+Target not created
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+blockmove.asm - 2 Error(s), 1 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(5): error A4: BAD INDIRECT REGISTER
+blockmove.asm(5): error A9: SYNTAX ERROR
+blockmove.asm(8): warning A41: MISSING 'END' STATEMENT
+blockmove.asm - 2 Error(s), 1 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(1): error A9: SYNTAX ERROR
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 3 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+Target not created
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+assembling Add.asm...
+assembling AvgArray.asm...
+assembling Mul32.asm...
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+Target not created
+assembling blockmove.asm...
+blockmove.asm(7): error A4: BAD INDIRECT REGISTER
+blockmove.asm(7): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A4: BAD INDIRECT REGISTER
+blockmove.asm(6): error A9: SYNTAX ERROR
+blockmove.asm - 2 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm(6): error A40: INVALID REGISTER
+blockmove.asm - 1 Error(s), 0 Warning(s).
+assembling blockmove.asm...
+blockmove.asm - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=3107
+creating hex file from "AddArray"...
+"AddArray" - 0 Error(s), 6 Warning(s).
+assembling blockmove.asm...
+blockmove.asm - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=3107
+creating hex file from "AddArray"...
+"AddArray" - 0 Error(s), 6 Warning(s).
+assembling blockmove.asm...
+blockmove.asm - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0304H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=3107
+creating hex file from "AddArray"...
+"AddArray" - 0 Error(s), 6 Warning(s).
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A9: SYNTAX ERROR
+BOLCKMoveDCR.asm(9): error A9: SYNTAX ERROR
+BOLCKMoveDCR.asm - 2 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+assembling Add.asm...
+assembling AvgArray.asm...
+assembling Mul32.asm...
+assembling blockmove.asm...
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A9: SYNTAX ERROR
+BOLCKMoveDCR.asm(9): error A9: SYNTAX ERROR
+Target not created
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A9: SYNTAX ERROR
+BOLCKMoveDCR.asm(9): error A9: SYNTAX ERROR
+BOLCKMoveDCR.asm - 2 Error(s), 0 Warning(s).
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A40: INVALID REGISTER
+BOLCKMoveDCR.asm - 1 Error(s), 0 Warning(s).
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A40: INVALID REGISTER
+BOLCKMoveDCR.asm - 1 Error(s), 0 Warning(s).
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A40: INVALID REGISTER
+BOLCKMoveDCR.asm - 1 Error(s), 0 Warning(s).
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A40: INVALID REGISTER
+BOLCKMoveDCR.asm - 1 Error(s), 0 Warning(s).
+assembling BOLCKMoveDCR.asm...
+BOLCKMoveDCR.asm(8): error A40: INVALID REGISTER
+BOLCKMoveDCR.asm - 1 Error(s), 0 Warning(s).

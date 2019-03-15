@@ -1,0 +1,21 @@
+ORG 300H
+DB 14,5,6,7,2
+ORG 0000H       
+MOV DPTR, #0300H
+MOV R7, #05H  
+MOV A, #01H
+MOV R0, #00H    
+MOV B,#01H      
+
+LOOP:
+MOV A, R0       
+MOVC A,@A+DPTR 
+MUL AB  
+MOV P3,A
+MOV P2,B
+INC R0
+DJNZ R7, LOOP
+
+
+
+END

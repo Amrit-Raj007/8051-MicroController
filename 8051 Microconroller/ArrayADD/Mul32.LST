@@ -1,0 +1,49 @@
+A51 MACRO ASSEMBLER  MUL32                                                                03/15/2019 16:22:23 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN Mul32.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE Mul32.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0300                   1     ORG 300H
+0300 0E050607          2     DB 14,5,6,7,2
+0304 02                      
+0000                   3     ORG 0000H       
+0000 900300            4     MOV DPTR, #0300H
+0003 7F05              5     MOV R7, #05H  
+0005 7401              6     MOV A, #01H
+0007 7800              7     MOV R0, #00H    
+0009 75F001            8     MOV B,#01H      
+                       9     
+000C                  10     LOOP:
+000C E8               11     MOV A, R0       
+000D 93               12     MOVC A,@A+DPTR 
+000E A4               13     MUL AB  
+000F F5B0             14     MOV P3,A
+0011 85F0A0           15     MOV P2,B
+0014 08               16     INC R0
+0015 DFF5             17     DJNZ R7, LOOP
+                      18     
+                      19     
+                      20     
+                      21     END
+A51 MACRO ASSEMBLER  MUL32                                                                03/15/2019 16:22:23 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+B. . . . . . . . .  D ADDR   00F0H   A   
+LOOP . . . . . . .  C ADDR   000CH   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+P3 . . . . . . . .  D ADDR   00B0H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

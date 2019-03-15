@@ -1,0 +1,7 @@
+"STARTUP.obj",
+"Add.obj",
+"AvgArray.obj",
+"Mul32.obj",
+"blockmove.obj" 
+TO "AddArray" 
+RAMSIZE(256) 
